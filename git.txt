@@ -1,1 +1,7 @@
-Basic git commands
+Basic git commands in their sequential order.
+
+git init
+
+git add
+
+git commit
